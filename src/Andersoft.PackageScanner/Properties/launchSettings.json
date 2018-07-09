@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Andersoft.PackageScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "directory=\"O:\\Projects\\Github\\Anderson.PackageAudit\" domain=\"localhost:7071\" apikey=\"6e0b80cb-d131-40fc-9016-550e76264d4f\""
+    }
+  }
+}
